@@ -8,7 +8,6 @@ import gym
 import importlib.util
 import pickle
 import time
-from IPython.display import clear_output
 import random
 
 def get_action(obs):
